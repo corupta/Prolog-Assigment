@@ -2,7 +2,7 @@
 ### A prolog assigment for analyzing soccer teams.
 
 ## Project Details
-That's a project I've created as a university homework for the course, CMPE 230 - Principles of Programming Languages on April 22nd, 2018.
+That's a project I've created as a university homework for the course, CMPE 260 - Principles of Programming Languages on April 22nd, 2018.
 
 What the project is about can be found via [Project.pdf](https://github.com/corupta/Prolog-Assigment/blob/master/Project.pdf)
 
